@@ -1,0 +1,6 @@
+{
+  "name": "CB Radio Simulator",
+  "description": "Industrial 5-channel CB Radio simulator with analog frequency tuning, automatic band scanner, physical S-meter, squelch control, Roger Beeps, and microphone transmission feedback from other operators.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
